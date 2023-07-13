@@ -15,6 +15,7 @@ ORDER BY
 LIMIT
   1;
 
+
 -- Section2
 SELECT
   f.id,
@@ -32,6 +33,7 @@ ORDER BY
 LIMIT
   10;
 
+
 -- Section3
 SELECT
   r.id,
@@ -48,6 +50,7 @@ ORDER BY
   r.id
 LIMIT
   10;
+
 
 -- Section4
 SELECT
